@@ -1,2 +1,3 @@
 a new file with text
 added text to newFile on master branch
+added from featurebranch
