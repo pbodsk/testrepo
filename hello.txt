@@ -7,3 +7,4 @@ Line four on master branch
 Line four on feature branch
 Line five on master branch
 Line five on feature branch
+Line six on feature branch, added from remote
