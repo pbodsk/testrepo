@@ -11,3 +11,4 @@ Line six on feature branch, added from remote
 Line seven on feature branch, added from remote
 Line eight on feature branch
 Line nine on feature branch, added from remote
+Line six on master branch
