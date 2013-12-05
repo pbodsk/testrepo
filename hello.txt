@@ -3,3 +3,4 @@ Line two on feature branch
 Line three on feature branch
 Line four on feature branch
 Line five on feature branch
+Line six on feature branch, added from remote
