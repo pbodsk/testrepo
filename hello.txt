@@ -6,3 +6,4 @@ Line three on master branch
 Line four on master branch
 Line four on feature branch
 Line five on master branch
+Line five on feature branch
