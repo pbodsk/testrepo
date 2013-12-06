@@ -15,4 +15,5 @@ Line six on master branch
 Line 7 on master branch
 Line 8 on master branch
 Line 9 on master branch
+Line 10 on master branch, added from remoteLine 9 on master branch
 Line 10 on master branch
