@@ -18,4 +18,7 @@ Line 9 on master branch
 Line 10 on master branch
 Line 10 on master branch, added from remote
 Line 11 on featurebranch, to be merged to developmentbranch
-Line 12 from experimentbranch, to be merged to developmentbranch
+Line 12 from experimentbranch
+Line 13 from experimentbranch
+Line 14 from experimentbranch
+Line 15 from experimentbranch
