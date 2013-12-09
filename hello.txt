@@ -33,7 +33,3 @@ Line 17 from experimentbranch
 Line 18 from experimentbranch
 Line 18 on developmentbranch
 Line 19 on developmentbranch
-Line 12 from experimentbranch
-Line 13 from experimentbranch
-Line 14 from experimentbranch
-Line 15 from experimentbranch
